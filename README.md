@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Ciclo IA ;)
 
 ## 📒 Descrição
 Cicloturismo e IA generativa para conteudos.
