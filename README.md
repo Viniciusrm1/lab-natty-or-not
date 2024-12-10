@@ -1,4 +1,4 @@
-# Ciclo IA U+1F6B2
+# Ciclo IA &#128690;
 
 ## 📒 Descrição
 Cicloturismo e IA generativa para conteudos.
